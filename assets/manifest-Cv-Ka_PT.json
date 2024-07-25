@@ -1,0 +1,10 @@
+{
+    "name": "POKEDEX",
+    "short_name": "POKEMON DETAILS",
+    "start_url": "https://akhandmishraji.github.io/pokedex.pokemon/",
+    "display": "standalone",
+    "background_color": "#fae60f",
+    "description": "AN APPLICATION WHERE YOU CAN FIND POKEMON DETAILS"
+    
+   
+  }
